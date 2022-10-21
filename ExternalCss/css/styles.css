@@ -1,0 +1,20 @@
+.trSpace{
+ background-color: #dddddd;
+}
+
+table{
+    border-collapse:collapse ;
+    width: 100%;
+    background-color: aliceblue;
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+.title{
+    text-align: center;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
